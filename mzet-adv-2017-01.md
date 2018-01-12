@@ -109,7 +109,7 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
 ==7635==ABORTING
 ```
 
-**Steps to reproduce invalid memory read issue (malformed input: [in2.pdf](mzet-adv-2017-01/in2.pdf)):**
+**Steps to reproduce invalid memory read issue (malformed input: [in3.pdf](mzet-adv-2017-01/in3.pdf)):**
 
 ```
 $ ./mupdf-1.12-dest-asan/bin/mutool info in3.pdf
